@@ -1,0 +1,33 @@
+Sure, here are 10 points on how to learn and practice automation testing using Python:
+
+    Start with the basics of Python programming language such as data types, control structures, functions, and modules. You can learn Python from various online courses or books, such as the "Python for Everybody" course on Coursera or the "Python Crash Course" book by Eric Matthes.
+
+    Learn the popular automation testing frameworks and libraries in Python such as Selenium, Pytest, and Robot Framework. These frameworks will help you automate web testing, unit testing, and acceptance testing.
+
+    Practice your Python programming skills by solving problems on online platforms such as LeetCode, HackerRank, or CodeWars.
+
+    Set up your development environment with the necessary tools, such as a text editor or an Integrated Development Environment (IDE) like PyCharm, Visual Studio Code, or Eclipse.
+
+    Learn the basics of web development technologies such as HTML, CSS, and JavaScript. You can start with free resources available on the internet such as W3Schools.
+
+    Familiarize yourself with different browser developer tools, such as Chrome DevTools, which can help you inspect, debug, and optimize your web applications.
+
+    Practice automating web testing using Selenium WebDriver, which is a popular web testing framework in Python. You can learn Selenium through online courses like "Selenium WebDriver with Python" on Udemy or "Selenium WebDriver Tutorial with Examples in Python" on Guru99.
+
+    Learn unit testing using Pytest, which is a popular testing framework in Python. You can learn Pytest through online courses such as "Python Testing with Pytest" on Pluralsight or "Getting Started with Pytest" on TestProject.
+
+    Practice creating automated test cases for web applications using Robot Framework, which is a popular open-source testing framework in Python. You can learn Robot Framework through online courses such as "Robot Framework Test Automation - Level 1" on Udemy or "Robot Framework Tutorial" on Guru99.
+
+    Join online communities, such as Python Testing community on Reddit or StackOverflow, where you can ask questions, seek advice, and learn from experienced automation engineers.
+
+Useful sources and techniques to learn automation testing using Python:
+
+    "Python for Everybody" course on Coursera
+    "Python Crash Course" book by Eric Matthes
+    LeetCode, HackerRank, or CodeWars for practicing Python programming skills
+    PyCharm, Visual Studio Code, or Eclipse as an IDE
+    W3Schools for learning web development technologies
+    Selenium WebDriver with Python on Udemy or Selenium WebDriver Tutorial with Examples in Python on Guru99 for learning Selenium
+    Python Testing with Pytest on Pluralsight or Getting Started with Pytest on TestProject for learning Pytest
+    Robot Framework Test Automation - Level 1 on Udemy or Robot Framework Tutorial on Guru99 for learning Robot Framework
+    Python Testing community on Reddit or StackOverflow for seeking advice and learning from experienced automation engineers.

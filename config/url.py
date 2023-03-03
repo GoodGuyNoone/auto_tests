@@ -1,4 +1,4 @@
 
 
 class Url:
-    DOMAIN = 'https://www.linkedin.com/'
+    MAIN_PAGE = 'https://www.linkedin.com/'

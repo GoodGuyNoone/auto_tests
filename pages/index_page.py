@@ -8,7 +8,7 @@ class IndexPage:
     _LINK_LANGUAGE_ENG = "//html/body/footer/ul/li[11]/div/ul/li[5]/button"
 
     def open_index_page(self, page: Page) -> None:
-        page.goto(config.url.DOMAIN)
+        page.goto(config.url.MAIN_PAGE)
 
     def press_link_english_lang(self, page: Page):
         page.locator(self._LINK_LANGUAGES).click()

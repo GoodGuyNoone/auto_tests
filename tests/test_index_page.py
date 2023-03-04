@@ -4,6 +4,7 @@ import pages
 
 class TestButtons:
 
+    @pytest.mark.case_id(1)
     def test_buttons_on_main_page(self, page):
         pages.index_page.open_index_page(page)
         pages.index_page.press_link_english_lang(page)

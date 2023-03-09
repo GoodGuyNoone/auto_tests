@@ -3,17 +3,23 @@
 
 -------
 
+<h2>https://github.com/GoodGuyNoone/auto_tests/tree/main/playwright</h2>
 
-Автоматизация проверок текстов в кнопках на главной странице LinkedIn.
+Validation of the header buttons on the LinkedIn home page.
 
-Реализовано как сами проверки, так и автоматическое обновление шагов в тест кейсах с использование API запросов к QASE.IO
+Additionally added steps to automatically update test cases on QASE.io.
 
+tools: Python, PyTest, Playwright, QASE.io
 
-технологии: Python, PyTest, Playwright, QASE.io
-
-------
-
-создано по статьям Автоматизации UI на питоне авторством <a href="https://www.linkedin.com/in/stepushchenko/" target="_blank">Ильи Степущенко</a>
+created based on articles by <a href="https://www.linkedin.com/in/stepushchenko/" target="_blank">Ilia Stepushchenko</a>
 
 https://habr.com/ru/post/714950/
 <br>https://habr.com/ru/post/715732/
+
+------
+
+<h2>https://github.com/GoodGuyNoone/auto_tests/tree/main/selenium_stepik</h2>
+
+Collected all tasks from <a href="https://stepik.org/course/575" target="_blank">Stepik course</a>
+
+tools: Python, PyTest, Selenium Webdriver.

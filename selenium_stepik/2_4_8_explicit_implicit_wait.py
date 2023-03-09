@@ -18,8 +18,6 @@ browser = webdriver.Chrome()
 
 try:
     browser.get(link)
-    # price = browser.find_element(By.ID, 'price').text
-    # print(price)
     WebDriverWait(browser, 15).until(EC.text_to_be_present_in_element((By.ID, 'price'), '$100'))
     browser.find_element(By.ID, 'book').click()
     x = browser.find_element(By.CSS_SELECTOR, 'span#input_value').text
